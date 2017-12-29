@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cholerae&#39;s blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Cholerae&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 Dec 2017 20:06:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ada My 2017</title>
+      <link>http://localhost:1313/posts/ada-my-2017/</link>
+      <pubDate>Fri, 29 Dec 2017 20:06:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/ada-my-2017/</guid>
+      <description>之前的博客的源码丢了，重建了一个，生成器是 Hugo，托管在 github pages 上，主题是轻微修改过的 hugo-redlounge,就是在 sidebar 上加了个友链。
+2017 年就要过去了，今年的年末比较闲，有比较多的时间思考一些事情。回想一下，今年比较重要的事就是秋招，就把秋招总结写到这吧。
+今年秋招投了字节跳动（最有名的产品是今日头条）、腾讯、网易云、滴滴、阿里云，再加上实习的 PingCAP，一共就这六家公司。挨个回顾一下。
+字节跳动：三面技术面加一面 HR 面，最后又追加了一面技术面。算法面不提，二面基本是看着简历问经历，三面比较有趣，是就一个需求进行系统设计，考官循循善诱，不断提高对可用性、扩展性和性能的要求，问得很深也很细，一直问到了对内存的高效使用、Linux 系统调用的层面，是今年秋招给我印象最为深刻的一面。最后加面就比较海阔天空了，从问我的项目经历到压缩算法的知识，再到系统设计，实际上这面暴露出了我很多知识盲区，也是今年秋招唯一让我感觉智力被面试官碾压的面试。
+微信支付：一直想回支付，无奈支付不鸟我，连面试的机会都没给，后来想想，可能是因为我暑假实习面试支付基础架构组的时候挂了，导致在系统里留下了负面的记录，这也是我本科期间唯一挂掉的一次面试，也是给我留下了非常大的遗憾。
+腾讯云：大概是四轮技术面，后三面没给我留下什么印象，第一面的面试官非常有趣，我跟他相谈甚欢，后面考算法题他问了好几道，非要找一个我不会的题难住我，也是挺有意思的。前几面拖的时间非常长，到 HR 面的时候我已经拿到了几个 offer，态度很懈怠，可能影响到了评级，现在想想也是很不应该。
+网易云：非要让我去杭州现场面，我就拒了。
+滴滴：笔试跟团建时间冲突，果断选择团建，把笔试鸽了……
+阿里云：中规中矩，不过后来我要去的组的 leader 联系了我，我们进行了长谈，他帮我分析了很多公司的情况和我个人的未来职业发展，我也从中受益良多，很感谢他。
+PingCAP：我去过的员工整体技术水平最高的公司，我的实习导师对 RocksDB 了解非常深刻，对性能测试、优化也有很深入的心得和方法论。我的精神导师是我认识的最强的 Go 程序员，还跟我一起去参加过相亲会，真的是非常有趣的人。但是最终因为各种非技术的原因我没有选择留在 PingCAP。
+总体来说，我今年秋招最大的感受就是算法题普遍比较简单，都是 LeetCode 的 Easy，Middle 都不多。也许这是大势所趋。
+回想起来，2017 年其他的事情真是没什么值得一提的，我也实在是有点懒，虚度了很多光阴。正好换了新的博客，就当是给过去道个别。
+2017 年马上要过去了，我很想念她。</description>
+    </item>
+    
+  </channel>
+</rss>
