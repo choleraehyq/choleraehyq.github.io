@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/posts/ada-my-2017/</loc>
+    <loc>http://choleraehyq.github.io/posts/ada-my-2017/</loc>
     <lastmod>2017-12-29T20:06:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://choleraehyq.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2017-12-29T20:06:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://choleraehyq.github.io/</loc>
     <lastmod>2017-12-29T20:06:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://choleraehyq.github.io/posts/</loc>
+    <lastmod>2017-12-29T20:06:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://choleraehyq.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

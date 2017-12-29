@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cholerae&#39;s blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://choleraehyq.github.io/posts/</link>
     <description>Recent content in Posts on Cholerae&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 29 Dec 2017 20:06:23 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://choleraehyq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ada My 2017</title>
-      <link>http://localhost:1313/posts/ada-my-2017/</link>
+      <link>http://choleraehyq.github.io/posts/ada-my-2017/</link>
       <pubDate>Fri, 29 Dec 2017 20:06:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/ada-my-2017/</guid>
+      <guid>http://choleraehyq.github.io/posts/ada-my-2017/</guid>
       <description>之前的博客的源码丢了，重建了一个，生成器是 Hugo，托管在 github pages 上，主题是轻微修改过的 hugo-redlounge,就是在 sidebar 上加了个友链。
 2017 年就要过去了，今年的年末比较闲，有比较多的时间思考一些事情。回想一下，今年比较重要的事就是秋招，就把秋招总结写到这吧。
 今年秋招投了字节跳动（最有名的产品是今日头条）、腾讯、网易云、滴滴、阿里云，再加上实习的 PingCAP，一共就这六家公司。挨个回顾一下。
